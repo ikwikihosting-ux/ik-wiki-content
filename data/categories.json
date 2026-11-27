@@ -1,0 +1,1320 @@
+{
+  "categories": [
+    {
+      "name": "3.0.x",
+      "count": 1,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Patch notes"
+      ]
+    },
+    {
+      "name": "46+ talent builds",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Lord/Lady (Talents & Honor)"
+      ]
+    },
+    {
+      "name": "5-day-bundles: High Value Dragon Essences and Immortals",
+      "count": 8,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Shops › In-game Shop"
+      ]
+    },
+    {
+      "name": "Ability Stones Availability - season 1, 2 and Conquest",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Tower of Knowledge"
+      ]
+    },
+    {
+      "name": "Account(s)",
+      "count": 7,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "All SvS Seasons",
+      "count": 9,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Legion of Frostborne (SvS)"
+      ]
+    },
+    {
+      "name": "All Tower of Knowledge skills",
+      "count": 71,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Tower of Knowledge"
+      ]
+    },
+    {
+      "name": "Alliance",
+      "count": 15,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Alliance Technology",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Alliance"
+      ]
+    },
+    {
+      "name": "Anniversary",
+      "count": 5,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Events"
+      ]
+    },
+    {
+      "name": "Anniversary Festival (February)",
+      "count": 2,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Arena",
+      "count": 1,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Artifact Upgrade Costs",
+      "count": 4,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Immortals › Artifacts"
+      ]
+    },
+    {
+      "name": "Artifacts",
+      "count": 30,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Immortals"
+      ]
+    },
+    {
+      "name": "Attributes, stats and their impact",
+      "count": 7,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Immortals"
+      ]
+    },
+    {
+      "name": "Autumn Seasonal Event (October)",
+      "count": 3,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Basic talent builds",
+      "count": 9,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Lord/Lady (Talents & Honor)"
+      ]
+    },
+    {
+      "name": "Battle Chess",
+      "count": 7,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Battle Chess General Info",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Battle Chess"
+      ]
+    },
+    {
+      "name": "Battle Passes",
+      "count": 5,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Battle Reports",
+      "count": 7,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Combat Guides"
+      ]
+    },
+    {
+      "name": "Beginners guide to Tower of Knowledge - collection of Tier Lists based on level ranges",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Tower of Knowledge"
+      ]
+    },
+    {
+      "name": "Beginners Guides - Forge and Artifacts",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "New Player Guides"
+      ]
+    },
+    {
+      "name": "Best Artifact Attribute Rolls",
+      "count": 4,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Immortals › Artifacts"
+      ]
+    },
+    {
+      "name": "Boss Killing Builds",
+      "count": 8,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Buildings",
+      "count": 22,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Builds (all elements)",
+      "count": 109,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Builds Castle Level 30",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Progression Builds (for non C50 players)"
+      ]
+    },
+    {
+      "name": "Castle",
+      "count": 1,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Castle Skins",
+      "count": 22,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Chaos Seasonal Event (November)",
+      "count": 2,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Children's Day Festival (June)",
+      "count": 7,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Cities and buffs",
+      "count": 7,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Alliance"
+      ]
+    },
+    {
+      "name": "Combat Guides",
+      "count": 23,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Conquest Season Builds",
+      "count": 8,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Contention of Relics (CoR)",
+      "count": 4,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Countering Tower of Knowledge Skills: A PvP Guide Series",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Tower of Knowledge"
+      ]
+    },
+    {
+      "name": "Cross-Server Spider Event",
+      "count": 16,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Spider Boss"
+      ]
+    },
+    {
+      "name": "Different skill mechanics (Triggered, Passives, Graces, Blessings, Aura)",
+      "count": 6,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Immortals"
+      ]
+    },
+    {
+      "name": "Dragon",
+      "count": 24,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Dragon Soul Fragments/Crystals",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Dragon"
+      ]
+    },
+    {
+      "name": "Dragon Talents (patch 2.3)",
+      "count": 8,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Dragon"
+      ]
+    },
+    {
+      "name": "Dragons (all elements)",
+      "count": 6,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Dragon"
+      ]
+    },
+    {
+      "name": "Earth Builds",
+      "count": 16,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Events",
+      "count": 122,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Everything about \"Defeats\"",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Combat Guides"
+      ]
+    },
+    {
+      "name": "Farm Methods Resources",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Resources"
+      ]
+    },
+    {
+      "name": "Farming Gnome Camps (Item drop rates)",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Gnome Camps"
+      ]
+    },
+    {
+      "name": "Fire Builds",
+      "count": 13,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Free Arena Builds",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Full 3-march comps",
+      "count": 5,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Gear / Equipment",
+      "count": 7,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Immortals"
+      ]
+    },
+    {
+      "name": "Gift Codes",
+      "count": 3,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Gift of Bondings",
+      "count": 6,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Shops › In-game Shop"
+      ]
+    },
+    {
+      "name": "Gnome Camps",
+      "count": 4,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Goddess Festival (March)",
+      "count": 6,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Gold Farming Guides",
+      "count": 5,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Resources"
+      ]
+    },
+    {
+      "name": "Gtarcade",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Account(s)"
+      ]
+    },
+    {
+      "name": "Gtarcade Shop - via Mobile app or Desktop",
+      "count": 6,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Shops"
+      ]
+    },
+    {
+      "name": "Halfway through: Strongest Prime League BuildsHalfway through: Strongest Prime League BuildsHalfway through: Strongest Prime League Builds",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Prime League Illusion Battle"
+      ]
+    },
+    {
+      "name": "Harbour",
+      "count": 2,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Hard Counters",
+      "count": 6,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Harvest Festival (August)",
+      "count": 3,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Holy Builds",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "How to get ALL Immortal Unique Artifacts",
+      "count": 5,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Immortals › Artifacts"
+      ]
+    },
+    {
+      "name": "Hunting Festival (May)",
+      "count": 10,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Illusion Battlefield (IB)",
+      "count": 4,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Immortal Deepdives",
+      "count": 37,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Immortals"
+      ]
+    },
+    {
+      "name": "Immortal Portraits",
+      "count": 6,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Immortals"
+      ]
+    },
+    {
+      "name": "Immortal Pricings",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Immortals"
+      ]
+    },
+    {
+      "name": "Immortal Ultimate Ability Mechanics",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Immortals"
+      ]
+    },
+    {
+      "name": "Immortals",
+      "count": 114,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "In-game Shop",
+      "count": 17,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Shops"
+      ]
+    },
+    {
+      "name": "Infernal Assault",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Events"
+      ]
+    },
+    {
+      "name": "Infinity Kingdom Lore",
+      "count": 5,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Legion of Frostborne (SvS)",
+      "count": 36,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Legion Shop and Cold Coins",
+      "count": 5,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Legion of Frostborne (SvS)"
+      ]
+    },
+    {
+      "name": "Lightning Builds",
+      "count": 8,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Lord/Lady (Talents & Honor)",
+      "count": 21,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Main Guide to Farm Gold",
+      "count": 4,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Resources › Gold Farming Guides"
+      ]
+    },
+    {
+      "name": "Malenas",
+      "count": 2,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Events"
+      ]
+    },
+    {
+      "name": "Midsummer Festival (July)",
+      "count": 2,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Misc.",
+      "count": 5,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Misc. Combat Guides",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Combat Guides"
+      ]
+    },
+    {
+      "name": "Misc. Events",
+      "count": 7,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Events"
+      ]
+    },
+    {
+      "name": "Misc. KvK guides",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Legion of Frostborne (SvS)"
+      ]
+    },
+    {
+      "name": "New Player Guides",
+      "count": 42,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Nobility / Honor",
+      "count": 5,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Lord/Lady (Talents & Honor)"
+      ]
+    },
+    {
+      "name": "Original Festival (April)",
+      "count": 6,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Outfit Guides",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Immortals"
+      ]
+    },
+    {
+      "name": "Patch 2.6",
+      "count": 9,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Patch notes"
+      ]
+    },
+    {
+      "name": "Patch 2.8.X",
+      "count": 11,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Patch notes"
+      ]
+    },
+    {
+      "name": "Patch 2.9.X",
+      "count": 10,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Patch notes"
+      ]
+    },
+    {
+      "name": "Patch notes",
+      "count": 33,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Pirate Festival (September)",
+      "count": 4,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Playoffs: My top 5 builds going into first round",
+      "count": 5,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Prime League Illusion Battle"
+      ]
+    },
+    {
+      "name": "Preperation and season 1  builds",
+      "count": 7,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Prime League Illusion Battle",
+      "count": 26,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Progression Builds (for non C50 players)",
+      "count": 9,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Radiant Origin (January)",
+      "count": 3,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Recharge Event",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Shops"
+      ]
+    },
+    {
+      "name": "Resources",
+      "count": 10,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Round 1 - Prime League Builds (Pre-league)",
+      "count": 6,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Prime League Illusion Battle"
+      ]
+    },
+    {
+      "name": "Round 2 - Prime League Builds (Pre-league)",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Prime League Illusion Battle"
+      ]
+    },
+    {
+      "name": "Round 3 - Prime League Builds (Pre-league)",
+      "count": 5,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Prime League Illusion Battle"
+      ]
+    },
+    {
+      "name": "Ruins",
+      "count": 2,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Rune Factory - Manufacturing Factory Event",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Events"
+      ]
+    },
+    {
+      "name": "Season 2 Builds",
+      "count": 5,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Season Progression - Everything you need to know before a new season",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "New Player Guides"
+      ]
+    },
+    {
+      "name": "Seasonal Events",
+      "count": 56,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Events"
+      ]
+    },
+    {
+      "name": "Server Migration",
+      "count": 5,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Shadow Builds",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Shops",
+      "count": 32,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Skill Guides",
+      "count": 5,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Tower of Knowledge"
+      ]
+    },
+    {
+      "name": "Snow Festival (December)",
+      "count": 4,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Events › Seasonal Events"
+      ]
+    },
+    {
+      "name": "Sparks of Galaxy",
+      "count": 5,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Events"
+      ]
+    },
+    {
+      "name": "Spender Guides",
+      "count": 8,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Spider Boss",
+      "count": 30,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Squad Survival",
+      "count": 1,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Stellar Compass",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Events"
+      ]
+    },
+    {
+      "name": "Strategies and mechanics",
+      "count": 6,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Legion of Frostborne (SvS)"
+      ]
+    },
+    {
+      "name": "Strategies for Managing Blood Rage Debuff",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Combat Guides"
+      ]
+    },
+    {
+      "name": "SvS Lootboxes (Ancient Relics)",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Legion of Frostborne (SvS)"
+      ]
+    },
+    {
+      "name": "Technology",
+      "count": 3,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "The Beginning",
+      "count": 22,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "New Player Guides"
+      ]
+    },
+    {
+      "name": "The Deep Sea Eye Merchant",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Shops"
+      ]
+    },
+    {
+      "name": "Things you must know about Legion of Frostborne",
+      "count": 3,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Legion of Frostborne (SvS)"
+      ]
+    },
+    {
+      "name": "Time Rift Breaker",
+      "count": 7,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Spider Boss"
+      ]
+    },
+    {
+      "name": "tips and tricks for newer players",
+      "count": 10,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "New Player Guides"
+      ]
+    },
+    {
+      "name": "ToK Basics",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Tower of Knowledge"
+      ]
+    },
+    {
+      "name": "ToK Skill Explainers",
+      "count": 7,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Tower of Knowledge"
+      ]
+    },
+    {
+      "name": "ToK Strategies",
+      "count": 11,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Tower of Knowledge"
+      ]
+    },
+    {
+      "name": "Tools",
+      "count": 4,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Tower of Knowledge",
+      "count": 108,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Troops",
+      "count": 4,
+      "levels": [
+        1
+      ],
+      "parents": []
+    },
+    {
+      "name": "Unique Artifacts",
+      "count": 12,
+      "levels": [
+        3
+      ],
+      "parents": [
+        "Immortals › Artifacts"
+      ]
+    },
+    {
+      "name": "Upgrading and Domesticating Dragons",
+      "count": 4,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Dragon"
+      ]
+    },
+    {
+      "name": "Water Builds",
+      "count": 20,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Builds (all elements)"
+      ]
+    },
+    {
+      "name": "Wheels/Roulette",
+      "count": 8,
+      "levels": [
+        2
+      ],
+      "parents": [
+        "Events"
+      ]
+    }
+  ]
+}
